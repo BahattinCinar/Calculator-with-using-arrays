@@ -1,0 +1,11 @@
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\DIziler ile hesap makinesi\bin\Debug\DIziler ile hesap makinesi.exe.config
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\DIziler ile hesap makinesi\bin\Debug\DIziler ile hesap makinesi.exe
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\DIziler ile hesap makinesi\bin\Debug\DIziler ile hesap makinesi.pdb
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\DIziler ile hesap makinesi\obj\Debug\DIziler ile hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\DIziler ile hesap makinesi\obj\Debug\DIziler ile hesap makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\DIziler ile hesap makinesi\obj\Debug\DIziler_ile_hesap_makinesi.Form1.resources
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\DIziler ile hesap makinesi\obj\Debug\DIziler_ile_hesap_makinesi.Properties.Resources.resources
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\DIziler ile hesap makinesi\obj\Debug\DIziler ile hesap makinesi.csproj.GenerateResource.cache
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\DIziler ile hesap makinesi\obj\Debug\DIziler ile hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\DIziler ile hesap makinesi\obj\Debug\DIziler ile hesap makinesi.exe
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\DIziler ile hesap makinesi\obj\Debug\DIziler ile hesap makinesi.pdb
